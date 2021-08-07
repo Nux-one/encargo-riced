@@ -21,3 +21,7 @@ Ejecutar el script `install.sh`
   - picom
 
 2. Copiar la carpeta `.fonts` en `$HOME/` 
+
+
+# Screenshot
+![Mountains Theme](https://i.imgur.com/GKSXprO.png)
