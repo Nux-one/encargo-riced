@@ -1,6 +1,6 @@
 ### Hola a todos! :octocat:
 
-TEstos son mis dotfiles bspwm, espero que encuentres algo útil aquí ^^
+Estos son mis dotfiles bspwm, espero que encuentres algo útil aquí ^^
 
 Las configuraciones y esquemas de colores específicos son [here](https://github.com/zodd18/dotfiles/tree/master/rices) and general configuration files are [here](https://github.com/zodd18/dotfiles/tree/master/shared-config). You will need both.
 
